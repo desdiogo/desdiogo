@@ -1,7 +1,7 @@
 ### Olá, sou Diogo Eleutero
 
-- 🔭 Hoje Trabalho como desenvolvedor fullstack
-- 🌱 Estudando ReactJS
+- 🔭 Hoje estou buscando uma nova oportunidade como desenvolvedor fullstack
+- 🌱 Estudando ReactJS e NextJs
 - 😄 Pronouns: ele/dele
 
 <div>
