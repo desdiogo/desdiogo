@@ -1,6 +1,6 @@
 ### Olá, sou Diogo Eleutero
 
-- 🔭 Hoje estou buscando uma nova oportunidade como desenvolvedor fullstack
+- 🔭 Hoje trabalho como desenvolvedor web júnior na BSN Tecnologia
 - 🌱 Estudando ReactJS e NextJs
 - 😄 Pronouns: ele/dele
 
