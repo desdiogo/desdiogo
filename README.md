@@ -1,6 +1,6 @@
 ### Olá, sou Diogo Eleutero
 
-- 🔭 Hoje trabalho como desenvolvedor web na Agrosolos
+- 🔭 Hoje trabalho como desenvolvedor web na Dvi
 - 🌱 Estudando Laravel com WebSockets e Inertia com VueJs
 - 😄 Pronouns: ele/dele
 
