@@ -1,7 +1,7 @@
 ### Olá, sou Diogo Eleutero
 
-- 🔭 Hoje trabalho como desenvolvedor web na Dvi
-- 🌱 Estudando Laravel com WebSockets e Inertia com VueJs
+- 🔭 Hoje trabalho como desenvolvedor web na Ats
+- 🌱 Estudando Graphql
 - 😄 Pronouns: ele/dele
 
 <div>
