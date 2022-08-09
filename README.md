@@ -1,7 +1,7 @@
 ### Olá, sou Diogo Eleutero
 
-- 🔭 Hoje trabalho como desenvolvedor web na Ats
-- 🌱 Estudando Graphql
+- 🔭 Hoje trabalho como desenvolvedor web na 2Talk
+- 🌱 Estudando NestJs e Vue3
 - 😄 Pronouns: ele/dele
 
 <div>
