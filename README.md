@@ -1,6 +1,6 @@
 ### Olá, sou Diogo Eleutero
 
-- 🔭 Hoje trabalho como desenvolvedor web na 2Talk
+- 🔭 Hoje buscando uma nova oportunidade
 - 🌱 Estudando Dotnet
 - 😄 Pronouns: ele/dele
 
